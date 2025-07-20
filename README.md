@@ -24,4 +24,5 @@ Designed for use in headless Shopify builds (like Hydrogen or Next.js), this com
 - Tailwind CSS
 - GraphQL (mocked structure)
 - Shopify-inspired layout and design
-  
+
+Live preview link: https://codesandbox.io/p/github/UcValentine/Shopify/draft/brave-http?workspaceId=ws_QHx613fRZHoCmAVGzL6P4k
